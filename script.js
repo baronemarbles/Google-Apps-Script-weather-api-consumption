@@ -86,7 +86,7 @@ const coordenadas_cidades=[
     },
 
 ]
-const weatherApiK= "4e0edaf348c942dcb7a192902250107";
+const weatherApiK= "suaChave";
 let loopApiUrl="http://api.weatherapi.com/v1/forecast.json?key="+weatherApiK+"&q=";
 
 const options = {
